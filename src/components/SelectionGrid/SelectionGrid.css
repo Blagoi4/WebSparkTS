@@ -1,0 +1,19 @@
+.main-icons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  max-width: 1176px;
+  padding-top: 16px;
+  padding-bottom: 6px;
+  min-width: none;
+  gap: 10px;
+}
+.main-icons-btn {
+  cursor: pointer;
+  color: gray;
+  transition: color 0.3s;
+}
+
+.main-icons-btn.active {
+  color: blue;
+}
