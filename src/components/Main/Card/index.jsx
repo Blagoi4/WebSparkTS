@@ -108,7 +108,7 @@ const Card = ({ view }) => {
         </div>
       )}
       <div className="primary-btn-container">
-        <button className="primary-btn">Show more</button>
+        <button className="primary-btn">load more</button>
       </div>
     </div>
   );

@@ -50,6 +50,7 @@
   .header-content {
     justify-content: center;
     flex-direction: column;
+    gap: 30px;
   }
 
   .header-title__info {
