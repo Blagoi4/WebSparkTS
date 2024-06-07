@@ -1,4 +1,3 @@
-// import React from 'react';
 import PropTypes from 'prop-types';
 import './Card.css';
 import dataCardCatalog from './dataCardCatalog';
@@ -108,7 +107,7 @@ const Card = ({ view }) => {
         </div>
       )}
       <div className="primary-btn-container">
-        <button className="primary-btn">load more</button>
+        <button className="primary-btn">LOAD MORE</button>
       </div>
     </div>
   );
